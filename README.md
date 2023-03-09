@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there and welcome! 👋
+
+My name is Jerrick and I am a multi-discipline engineer and professional project manager with Full Stack capabilities. 
+
+Check out either:
+👈 my Portfolio website, LinkedIn and Twitter on the left side 
+OR
+My top projects I'm most proud of pinned down below 👇
 
 <!--
 **s0ysau/s0ysau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
