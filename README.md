@@ -2,9 +2,9 @@
 
 My name is Jerrick and I am a multi-discipline engineer and professional project manager with Full Stack capabilities. 
 
-Check out either:
-👈 my Portfolio website, LinkedIn and Twitter on the left side 
-OR
+Check out either: </br>
+👈 my Portfolio website, LinkedIn and Twitter on the left side </br>
+OR </br>
 My top projects I'm most proud of pinned down below 👇
 
 <!--
