@@ -2,6 +2,8 @@
 
 My name is Jerrick and I am a multi-discipline engineer and professional project manager with Full Stack capabilities. 
 
+[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,mongodb,react,express,nodejs)](https://skillicons.dev)
+
 Check out either: </br>
 👈 my Portfolio website, LinkedIn and Twitter on the left side </br>
 OR </br>
