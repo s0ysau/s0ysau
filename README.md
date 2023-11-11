@@ -6,7 +6,7 @@ My name is Jerrick and I am a multi-discipline engineer and professional project
 
 
 <a href="https://jerricklc.herokuapp.com/" target="_blank"> my Portfolio website </a></br>
-<a href="https://www.linkedin.com/in/jerrick-lloyd-carandang/" target="_blank"> LinkedIn </a>
+<a href="https://www.linkedin.com/in/jerricklc/" target="_blank"> LinkedIn </a>
 
 My top projects I'm most proud of pinned down below 👇
 
