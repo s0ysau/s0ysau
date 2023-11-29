@@ -5,7 +5,7 @@ My name is Jerrick and I am a multi-discipline engineer and professional project
 [![My Skills](https://skillicons.dev/icons?i=js,python,html,css,mongodb,react,express,nodejs)](https://skillicons.dev)
 
 
-<a href="https://jerricklc.herokuapp.com/" target="_blank"> my Portfolio website </a></br>
+<a href="https://jerricklc.netlify.app/" target="_blank"> My Portfolio </a></br>
 <a href="https://www.linkedin.com/in/jerricklc/" target="_blank"> LinkedIn </a>
 
 My top projects I'm most proud of pinned down below 👇
